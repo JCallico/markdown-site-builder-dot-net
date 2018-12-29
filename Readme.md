@@ -1,6 +1,6 @@
-# Markdown Site Kit
+# Markdown Site Builder
 
-Markdown Site Kit will be a multi-platform, multi-tenant and convention based website rendering engine using Markdown files as source.
+Markdown Site Builder will be a multi-platform, multi-tenant and convention based website rendering engine using Markdown files as source.
 
 ## Idea
 
